@@ -1,0 +1,10 @@
+allure-python-commons
+pytest
+selenium
+webdriver-manager
+pytest-html
+pytest-xdist
+openpyxl
+allure-pytest
+pytest-ordering
+pytest-dependency
